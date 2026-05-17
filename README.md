@@ -5,9 +5,10 @@ A simple and interactive Hangman Game built using Python.
 This project allows users to guess words based on different difficulty levels and categories while tracking score and remaining attempts.
 
 
-Features ✨
+**Features ✨**
 
 •Multiple difficulty levels:
+
   Easy
   Medium
   Hard
@@ -23,19 +24,24 @@ Features ✨
 •Interactive command-line gameplay
 
 
-Technologies Used 🛠️
+
+
+**Technologies Used 🛠️**
 
 •Python
 
 •Jupyter Notebook
 
 
-Project Structure 📂
+
+**Project Structure 📂**
 
 •Hungman Project(Sneha ingole).ipynb → Main game notebook
 
 
-How to Run ▶️
+
+
+**How to Run ▶️**
 
 1.Clone the repository:
 
@@ -50,7 +56,9 @@ cd hangman-game
 3.Run the notebook using Jupyter Notebook or Jupyter Lab.
 
 
-Gameplay 🎯
+
+
+**Gameplay 🎯**
 
 1.Choose a difficulty level.
 
@@ -65,7 +73,9 @@ Gameplay 🎯
 6.Win by guessing the complete word before attempts run out.
 
 
-Example 📸
+
+
+**Example 📸**
 
 Word: _ _ _ _ _
 
@@ -75,7 +85,9 @@ Guessed letters: a, e
 
 Score: 10
 
-Future Improvements 🚀
+
+
+**Future Improvements 🚀**
 
 •Add GUI using Tkinter or Pygame
 
@@ -85,11 +97,11 @@ Future Improvements 🚀
 
 •Add larger word database
 
-Author 👩‍💻
 
+
+**Author 👩‍💻**
 Sneha Ingole
 
 
-License 📜
-
+**License 📜**
 This project is open-source and available under the MIT License.

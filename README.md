@@ -11,10 +11,15 @@ Features ✨
   Easy
   Medium
   Hard
+  
 •Different word categories
+
 •ASCII Hangman visuals
+
 •Score tracking system
+
 •Input validation
+
 •Interactive command-line gameplay
 
 Technologies Used 🛠️

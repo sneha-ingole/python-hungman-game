@@ -45,15 +45,31 @@ This project allows users to guess words based on different difficulty levels an
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/sneha430/python-hangman-game.git
 
 
 2.Open the project folder:
 
-cd hangman-game
+cd python-hangman-game
 
 
 3.Run the notebook using Jupyter Notebook or Jupyter Lab.
+
+First install Jupyter if not installed:
+
+pip install notebook
+
+Then run:
+
+jupyter notebook
+
+It will open browser automatically.
+
+Now click:
+
+Hungman Project(Sneha ingole).ipynb
+
+and run the notebook cells.
 
 
 
